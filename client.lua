@@ -1,4 +1,3 @@
--- Made by FAXES, Based off HRC
 AddEventHandler('onClientMapStart', function()
   Citizen.CreateThread(function()
     local display = true
